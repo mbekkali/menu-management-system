@@ -1,0 +1,14 @@
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/model/Restaurant.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/repository/RestaurantRepository.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/controller/RestaurantController.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/controller/CustomerController.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/controller/KitchenController.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/controller/DiningTableController.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/model/Customer.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/MenuManagementSystemApplication.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/ServletInitializer.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/model/Kitchen.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/repository/CustomerRepository.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/repository/KitchenRepository.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/repository/DiningTableRepository.java
+/Users/mohammedbekkali/sources/menu-management-system/src/main/java/com/mms/model/DiningTable.java
